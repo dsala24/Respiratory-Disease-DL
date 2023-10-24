@@ -7,7 +7,7 @@ This project leverages the capabilities of artificial intelligence to develop a 
 The primary objective is to build an artificial intelligence model that can automatically detect and classify chest diseases in medical images, including X-rays and CT scans. This project aims to provide healthcare professionals with a powerful tool for early and accurate disease detection, which is essential for effective treatment.
 
 ## Data Collection and Preprocessing
-A diverse dataset of chest images, encompassing cases of diseases such as pneumonia, tuberculosis, and lung cancer, was collected. Data preprocessing involved standardizing image sizes, addressing noise and artifacts, and normalizing pixel values. Data augmentation techniques were applied to enhance model robustness.
+A diverse dataset of chest images, encompassing cases of diseases such as Viral/Bacterial pneumonia, and Covid-19, was collected. Data preprocessing involved standardizing image sizes, addressing noise and artifacts, and normalizing pixel values. Data augmentation techniques were applied to enhance model robustness.
 
 ## Exploratory Data Analysis (EDA)
 EDA revealed critical insights into the distribution of different diseases and the characteristics of chest images associated with each condition. Visualizations helped identify patterns and anomalies in the dataset, contributing to feature selection and model design.
