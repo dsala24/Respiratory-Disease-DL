@@ -32,3 +32,6 @@ Future work may involve expanding the dataset with additional disease categories
 
 ## References
 •	Smith, A. (2022). "AI in Chest Disease Detection: A Comprehensive Review." Medical Imaging Journal, 50(4), 567-586.
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+This example provides a comprehensive overview of a deep-learning project focused on AI-powered respiratory disease detection and classification. It covers crucial aspects, from data collection and preprocessing to model selection and evaluation, and offers insights into potential future developments and the impact on the field of medical diagnostics.
