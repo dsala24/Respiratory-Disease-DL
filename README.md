@@ -1,7 +1,7 @@
 # Deep Learning Respiratory Disease Detection and Classification
 
 ## Introduction
-This project leverages the capabilities of artificial intelligence to develop a robust system for the detection and classification of chest diseases. Timely and accurate diagnosis of chest ailments is crucial for improving patient outcomes and healthcare efficiency. By creating an AI-powered model, we aim to revolutionize the field of medical diagnostics, making it faster and more precise.
+This project leverages the capabilities of artificial intelligence to develop a robust system for the detection and classification of chest diseases. Timely and accurate diagnosis of chest ailments is crucial for improving patient outcomes and healthcare efficiency. Through the development of an AI-driven model, our objective is to advance the landscape of medical diagnostics, facilitating swifter and more accurate assessments. In 2018, dermatologists achieved an 86.6% detection rate for skin cancer. However, with the advancements in machine learning and deep learning models, the detection rate has improved to approximately 95%.
 
 ## Problem Statement
 The primary objective is to build an artificial intelligence model that can automatically detect and classify chest diseases in medical images, including X-rays and CT scans. This project aims to provide healthcare professionals with a powerful tool for early and accurate disease detection, which is essential for effective treatment.
