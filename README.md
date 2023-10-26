@@ -30,8 +30,6 @@ This project exemplifies the transformative potential of artificial intelligence
 ## Future Work
 Future work may involve expanding the dataset with additional disease categories, fine-tuning the model for specific clinical use cases, and integrating the AI system with medical imaging equipment for real-time diagnostics.
 
-## References
-•	Smith, A. (2022). "AI in Chest Disease Detection: A Comprehensive Review." Medical Imaging Journal, 50(4), 567-586.
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 This example provides a comprehensive overview of a deep-learning project focused on AI-powered respiratory disease detection and classification. It covers crucial aspects, from data collection and preprocessing to model selection and evaluation, and offers insights into potential future developments and the impact on the field of medical diagnostics.
